@@ -1,5 +1,6 @@
 # persona
 
+![image](https://github.com/user-attachments/assets/dda2684b-57f6-4979-a43b-e6dc5bee71f7)
 
 
 ## 1. 기본정보
