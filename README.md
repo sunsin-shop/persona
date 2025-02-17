@@ -1,5 +1,7 @@
 # persona
 
+![image](https://github.com/user-attachments/assets/989e5b77-311a-4b8e-8207-f8edae6ece5f)
+
 ## 1. 기본 정보
  
 - **이름** : 이유나
