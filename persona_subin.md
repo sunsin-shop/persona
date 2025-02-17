@@ -1,8 +1,6 @@
 📌 페르소나 분석
 1. 기본 정보
 사진: 
-![img](https://ton.x.com/i/ton/data/grok-attachment/1891304001205125120)
-
 이름: 안수빈
 연령: 20대 후반
 성별: 여성
