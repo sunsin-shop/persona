@@ -196,3 +196,15 @@
 
 **패션 관심사**
 - 신발 & 패션 트렌드 데이터 분석 후 맞춤 추천
+
+<br>
+
+## 마인드맵 그림
+
+- Yuna
+
+<img src="https://github.com/user-attachments/assets/8fca7826-8b2f-4c02-9d59-393e3932d580" width="816" height="816">
+
+- James
+
+<img src="https://github.com/user-attachments/assets/9981d295-e7aa-4b4c-a351-822f7f578fc4" width="816" height="816">
