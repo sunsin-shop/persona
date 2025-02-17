@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # persona
 
-=======
->>>>>>> 5ce7be1 (페르소나 초안1)
 > ![Image](https://github.com/user-attachments/assets/7f2d1d6d-5894-4f20-ae22-ab898be2d082)
 > 
 > ## 📌 페르소나 분석
