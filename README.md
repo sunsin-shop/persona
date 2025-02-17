@@ -1,5 +1,9 @@
 # persona
 
+![image](https://github.com/user-attachments/assets/e7005b59-5d86-4e24-a6f7-f7cfbec9ac74)
+
+
+
 ### 1. 기본 정보
 
 - 이름: 김상득
