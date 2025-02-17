@@ -1,7 +1,7 @@
 # persona
 ### **1. 기본 정보**
 
-- **사진:** [https://files.oaiusercontent.com/file-9ov3sqWPG62fyUD46BnNT9?se=2025-02-17T02%3A13%3A51Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C immutable%2C private&rscd=attachment%3B filename%3D4de43491-d828-4d71-bbfe-fae73e302f37.webp&sig=OKH5MW1FlKLmsbTPWVEd0AW7pcolyi1QyaQ8uJZ%2BzDc%3D](https://files.oaiusercontent.com/file-9ov3sqWPG62fyUD46BnNT9?se=2025-02-17T02%3A13%3A51Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D4de43491-d828-4d71-bbfe-fae73e302f37.webp&sig=OKH5MW1FlKLmsbTPWVEd0AW7pcolyi1QyaQ8uJZ%2BzDc%3D)
+- **사진:** <img src=https://aicreation-file.miricanvas.com/images/txt2img/2025/02/17/11/c1be0fcd-ef07-431d-8ad7-25207dab39e9.jpg?mode=modal>
 - **이름:** 김덤보
 - **연령:** 30대 초반
 - **성별:** 남성
